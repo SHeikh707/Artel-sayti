@@ -1,0 +1,17 @@
+.navbar{
+    display: grid;
+    grid-template-columns: 10% 75%;
+}
+.img1{
+    text-align: center;
+}
+.menu{
+    display: grid;
+    grid-template-columns: 20% 13% 11% 13% 13% 13% 13% 13% ;
+    font-size: 1.3vw;
+    text-align: right;
+}
+.artel{
+    width: 77%;
+    padding: 5% 4% 5% 4%;
+}
